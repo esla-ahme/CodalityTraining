@@ -1,1 +1,2 @@
-pb1: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+Lesson 1 pb1: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+Lesson 2 pb1,2: https://app.codility.com/programmers/lessons/2-arrays/
